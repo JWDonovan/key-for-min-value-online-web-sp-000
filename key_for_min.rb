@@ -16,5 +16,5 @@ def key_for_min_value(name_hash)
   # end
   #
   # array.first
-  puts name_hash.first
+  puts name_hash.first[0]
 end
